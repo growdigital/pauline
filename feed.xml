@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pauline</title>
+    <link href="https://growdigital.github.io/pauline/feed.xml" rel="self" />
+    <link href="https://growdigital.github.io/pauline" />
+    <updated>2025-03-16T22:25:15+00:00</updated>
+    <author>
+        <name>Pauline</name>
+    </author>
+    <id>https://growdigital.github.io/pauline</id>
+
+    <entry>
+        <title>All the bad things that have happened in the world today</title>
+        <author>
+            <name>Pauline</name>
+        </author>
+        <link href="https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html"/>
+        <id>https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html</id>
+
+        <updated>2025-03-16T22:25:15+00:00</updated>
+            <summary>
+                <![CDATA[
+                    My, what a long list. If you are happy with your new theme and wish to continue using it, it's a good idea to Uninstall your previously-used theme to free-up space and reduce the overall weight of your site. To do so, click on the drop-down list next to the Current Theme option&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My, what a long list.</p>
+<p>If you are happy with your new theme and wish to continue using it, it's a good idea to <strong>Uninstall</strong> your previously-used theme to free-up space and reduce the overall weight of your site. To do so, click on the drop-down list next to the <strong>Current Theme </strong>option then, under the <strong>Uninstall </strong>heading, select the theme you wish to uninstall and click the <strong>Save Settings </strong>button; the files will now be removed.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test page</title>
+        <author>
+            <name>Pauline</name>
+        </author>
+        <link href="https://growdigital.github.io/pauline/test-page.html"/>
+        <id>https://growdigital.github.io/pauline/test-page.html</id>
+
+        <updated>2025-03-16T22:03:39+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Or is it the home page? a list of things nice things
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Or is it the home page?</p>
+<figure class="post__image"><img loading="lazy"  src="https://growdigital.github.io/pauline/media/posts/1/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062.webp" alt="" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xs.webp 300w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-sm.webp 480w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-md.webp 749w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xl.webp 1200w"></figure>
+<ol>
+<li>a list</li>
+<li>of things</li>
+<li>nice things</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>
