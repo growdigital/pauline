@@ -1,3 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://growdigital.github.io/pauline/sitemap.xml
+Sitemap: https://growdigital.github.io/pvonhellerman/sitemap.xml

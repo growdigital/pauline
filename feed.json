@@ -1,23 +1,23 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Pauline",
+    "title": "Pauline von Hellerman",
     "description": "",
-    "home_page_url": "https://growdigital.github.io/pauline",
-    "feed_url": "https://growdigital.github.io/pauline/feed.json",
+    "home_page_url": "https://growdigital.github.io/pvonhellerman",
+    "feed_url": "https://growdigital.github.io/pvonhellerman/feed.json",
     "user_comment": "",
-    "icon": "https://growdigital.github.io/pauline/media/website/a36ff9a460e4e663.jpeg",
+    "icon": "https://growdigital.github.io/pvonhellerman/media/website/a36ff9a460e4e663.jpeg",
     "author": {
-        "name": "Pauline"
+        "name": "Pauline von Hellerman"
     },
     "items": [
         {
-            "id": "https://growdigital.github.io/pauline/learning-publii.html",
-            "url": "https://growdigital.github.io/pauline/learning-publii.html",
+            "id": "https://growdigital.github.io/pvonhellerman/learning-publii/",
+            "url": "https://growdigital.github.io/pvonhellerman/learning-publii/",
             "title": "Learning Publii",
             "summary": "How terribly exciting",
-            "content_html": "<p>How terribly exciting</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/pauline/media/posts/5/9a2af2696d3d753f.jpg\" alt=\"\" width=\"1280\" height=\"968\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xs.jpg 300w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-sm.jpg 480w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-md.jpg 749w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xl.jpg 1200w\"></figure>",
+            "content_html": "<p>How terribly exciting</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/pvonhellerman/media/posts/5/9a2af2696d3d753f.jpg\" alt=\"\" width=\"1280\" height=\"968\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://growdigital.github.io/pvonhellerman/media/posts/5/responsive/9a2af2696d3d753f-xs.jpg 300w ,https://growdigital.github.io/pvonhellerman/media/posts/5/responsive/9a2af2696d3d753f-sm.jpg 480w ,https://growdigital.github.io/pvonhellerman/media/posts/5/responsive/9a2af2696d3d753f-md.jpg 749w ,https://growdigital.github.io/pvonhellerman/media/posts/5/responsive/9a2af2696d3d753f-xl.jpg 1200w\"></figure>",
             "author": {
-                "name": "Pauline"
+                "name": "Pauline von Hellerman"
             },
             "tags": [
             ],
@@ -25,13 +25,13 @@
             "date_modified": "2025-03-17T12:48:21+00:00"
         },
         {
-            "id": "https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html",
-            "url": "https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html",
+            "id": "https://growdigital.github.io/pvonhellerman/all-the-bad-things-that-have-happened-in-the-world-today/",
+            "url": "https://growdigital.github.io/pvonhellerman/all-the-bad-things-that-have-happened-in-the-world-today/",
             "title": "All the bad things that have happened in the world today",
             "summary": "My, what a long list. If you are happy with your new theme and wish to continue using it, it's a good idea to Uninstall your previously-used theme to free-up space and reduce the overall weight of your site. To do so, click on the drop-down list next to the Current Theme option&hellip;",
             "content_html": "<p>My, what a long list.</p>\n<p>If you are happy with your new theme and wish to continue using it, it's a good idea to <strong>Uninstall</strong> your previously-used theme to free-up space and reduce the overall weight of your site. To do so, click on the drop-down list next to the <strong>Current Theme </strong>option then, under the <strong>Uninstall </strong>heading, select the theme you wish to uninstall and click the <strong>Save Settings </strong>button; the files will now be removed.</p>",
             "author": {
-                "name": "Pauline"
+                "name": "Pauline von Hellerman"
             },
             "tags": [
             ],
@@ -39,13 +39,13 @@
             "date_modified": "2025-03-16T22:25:15+00:00"
         },
         {
-            "id": "https://growdigital.github.io/pauline/test-page.html",
-            "url": "https://growdigital.github.io/pauline/test-page.html",
+            "id": "https://growdigital.github.io/pvonhellerman/test-page/",
+            "url": "https://growdigital.github.io/pvonhellerman/test-page/",
             "title": "Test page",
             "summary": "Or is it the home page? a list of things nice things",
-            "content_html": "<p>Or is it the home page?</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/pauline/media/posts/1/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062.webp\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xs.webp 300w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-sm.webp 480w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-md.webp 749w ,https://growdigital.github.io/pauline/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xl.webp 1200w\"></figure>\n<ol>\n<li>a list</li>\n<li>of things</li>\n<li>nice things</li>\n</ol>",
+            "content_html": "<p>Or is it the home page?</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/pvonhellerman/media/posts/1/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062.webp\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://growdigital.github.io/pvonhellerman/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xs.webp 300w ,https://growdigital.github.io/pvonhellerman/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-sm.webp 480w ,https://growdigital.github.io/pvonhellerman/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-md.webp 749w ,https://growdigital.github.io/pvonhellerman/media/posts/1/responsive/1920x1080_cmsv2_e413af36-0d43-5440-9942-6d0e9af5d5ec-9116062-xl.webp 1200w\"></figure>\n<ol>\n<li>a list</li>\n<li>of things</li>\n<li>nice things</li>\n</ol>",
             "author": {
-                "name": "Pauline"
+                "name": "Pauline von Hellerman"
             },
             "tags": [
             ],
