@@ -3,12 +3,33 @@
     <title>Pauline</title>
     <link href="https://growdigital.github.io/pauline/feed.xml" rel="self" />
     <link href="https://growdigital.github.io/pauline" />
-    <updated>2025-03-16T22:25:15+00:00</updated>
+    <updated>2025-03-17T12:48:21+00:00</updated>
     <author>
         <name>Pauline</name>
     </author>
     <id>https://growdigital.github.io/pauline</id>
 
+    <entry>
+        <title>Learning Publii</title>
+        <author>
+            <name>Pauline</name>
+        </author>
+        <link href="https://growdigital.github.io/pauline/learning-publii.html"/>
+        <id>https://growdigital.github.io/pauline/learning-publii.html</id>
+
+        <updated>2025-03-17T12:48:21+00:00</updated>
+            <summary>
+                <![CDATA[
+                    How terribly exciting
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>How terribly exciting</p>
+<figure class="post__image"><img loading="lazy"  src="https://growdigital.github.io/pauline/media/posts/5/9a2af2696d3d753f.jpg" alt="" width="1280" height="968" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xs.jpg 300w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-sm.jpg 480w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-md.jpg 749w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xl.jpg 1200w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>All the bad things that have happened in the world today</title>
         <author>

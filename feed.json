@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://growdigital.github.io/pauline/learning-publii.html",
+            "url": "https://growdigital.github.io/pauline/learning-publii.html",
+            "title": "Learning Publii",
+            "summary": "How terribly exciting",
+            "content_html": "<p>How terribly exciting</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/pauline/media/posts/5/9a2af2696d3d753f.jpg\" alt=\"\" width=\"1280\" height=\"968\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xs.jpg 300w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-sm.jpg 480w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-md.jpg 749w ,https://growdigital.github.io/pauline/media/posts/5/responsive/9a2af2696d3d753f-xl.jpg 1200w\"></figure>",
+            "author": {
+                "name": "Pauline"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-17T12:48:21+00:00",
+            "date_modified": "2025-03-17T12:48:21+00:00"
+        },
+        {
             "id": "https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html",
             "url": "https://growdigital.github.io/pauline/all-the-bad-things-that-have-happened-in-the-world-today.html",
             "title": "All the bad things that have happened in the world today",
